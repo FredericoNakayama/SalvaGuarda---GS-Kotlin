@@ -70,9 +70,10 @@ navigation/
 ## 1. HomeScreen
 
 Tela inicial do aplicativo.
-<img src="https://github.com/user-attachments/assets/12f74cf6-11f6-4fcb-8809-c455914c2a6f" width="300"/>
 
 Funcionalidades:
+<img src="https://github.com/user-attachments/assets/12f74cf6-11f6-4fcb-8809-c455914c2a6f" width="300"/>
+
 
 * Exibição da identidade visual do SalvaGuarda;
 * Resumo da situação atual;
@@ -86,6 +87,8 @@ Funcionalidades:
 Tela responsável pela visualização dos alertas.
 
 Funcionalidades:
+<img src="https://github.com/user-attachments/assets/0afa0853-90b8-4331-b1cf-2b4030f7268e" width="300"/>
+
 
 * Exibição de alertas mockados;
 * Lista utilizando LazyColumn;
@@ -104,6 +107,8 @@ Exemplos:
 Assistente virtual de emergência.
 
 Funcionalidades:
+<img src="https://github.com/user-attachments/assets/c0216319-75bc-4bbb-94f5-db8cf46a56e2" width="300"/>
+
 
 * Histórico de mensagens;
 * Rolagem automática;
@@ -121,6 +126,8 @@ Opções disponíveis:
 ## 4. AuthorityScreen
 
 Tela de autenticação das autoridades.
+<img width="300" src="https://github.com/user-attachments/assets/4c527fb6-a45e-4966-bd64-b33336d5dd5f" />
+
 
 Credenciais de demonstração:
 
@@ -139,6 +146,8 @@ Permitir acesso ao painel administrativo do sistema.
 Painel administrativo para autoridades.
 
 Funcionalidades:
+<img width="300" src="https://github.com/user-attachments/assets/5da94794-db28-4174-91c3-b337bab97ddc" />
+
 
 * Visualização de indicadores;
 * Monitoramento de regiões;
