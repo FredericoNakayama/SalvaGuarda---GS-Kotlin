@@ -70,7 +70,7 @@ navigation/
 ## 1. HomeScreen
 
 Tela inicial do aplicativo.
-<img width="1187" height="2513" alt="image" src="https://github.com/user-attachments/assets/12f74cf6-11f6-4fcb-8809-c455914c2a6f" />
+<img src="https://github.com/user-attachments/assets/12f74cf6-11f6-4fcb-8809-c455914c2a6f" width="300"/>
 
 Funcionalidades:
 
